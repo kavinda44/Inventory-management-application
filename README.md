@@ -37,9 +37,6 @@ Contributions are welcome! To contribute:
 3. Commit your changes.
 4. Push to your fork and submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 For any inquiries, feel free to reach out:
 - **Email:** kavindadissanayake57@gmail.com
