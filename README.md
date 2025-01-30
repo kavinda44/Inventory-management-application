@@ -13,7 +13,7 @@ This C# inventory management application offers seamless tracking of products, s
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/kavinda44/inventory-management-app.git
+   git clone https://github.com/kavinda44/Inventory-management-application.git
    ```
 2. Open the project in Visual Studio.
 3. Restore NuGet packages.
